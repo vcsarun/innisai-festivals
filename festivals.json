@@ -1,0 +1,430 @@
+{
+ "v": 1,
+ "generated": "2026-10-19",
+ "festivals": [
+  {
+   "id": "newyear-2026",
+   "anim": "newyear",
+   "date": "2026-01-01",
+   "scope": "ALL",
+   "names": {
+    "default": "Happy New Year"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-jan-2026",
+   "anim": "harvest",
+   "date": "2026-01-14",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Pongal",
+    "sankranti": "Happy Sankranti",
+    "bihu": "Happy Magh Bihu"
+   },
+   "grace": 0
+  },
+  {
+   "id": "holi-2026",
+   "anim": "holi",
+   "date": "2026-03-04",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Holi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "eid-2026",
+   "anim": "eid",
+   "date": "2026-03-21",
+   "scope": "ALL",
+   "names": {
+    "default": "Eid Mubarak"
+   },
+   "grace": 0
+  },
+  {
+   "id": "goodfriday-2026",
+   "anim": "goodfriday",
+   "date": "2026-04-03",
+   "scope": "ALL",
+   "names": {
+    "default": "Good Friday"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-apr-2026",
+   "anim": "harvest",
+   "date": "2026-04-14",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Puthandu",
+    "bihu": "Happy Bohag Bihu",
+    "baisakhi": "Happy Baisakhi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "ganesh-2026",
+   "anim": "ganesh",
+   "date": "2026-09-14",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Vinayaka Chathurthi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "dussehra-2026",
+   "anim": "navratri",
+   "date": "2026-10-20",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Navarathiri · Dussehra"
+   },
+   "grace": 0
+  },
+  {
+   "id": "diwali-2026",
+   "anim": "diwali",
+   "date": "2026-11-08",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Diwali"
+   },
+   "grace": 0
+  },
+  {
+   "id": "christmas-2026",
+   "anim": "christmas",
+   "date": "2026-12-25",
+   "scope": "ALL",
+   "names": {
+    "default": "Merry Christmas"
+   },
+   "grace": 0
+  },
+  {
+   "id": "newyear-2027",
+   "anim": "newyear",
+   "date": "2027-01-01",
+   "scope": "ALL",
+   "names": {
+    "default": "Happy New Year"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-jan-2027",
+   "anim": "harvest",
+   "date": "2027-01-15",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Pongal",
+    "sankranti": "Happy Sankranti",
+    "bihu": "Happy Magh Bihu"
+   },
+   "grace": 0
+  },
+  {
+   "id": "eid-2027",
+   "anim": "eid",
+   "date": "2027-03-10",
+   "scope": "ALL",
+   "names": {
+    "default": "Eid Mubarak"
+   },
+   "grace": 1
+  },
+  {
+   "id": "holi-2027",
+   "anim": "holi",
+   "date": "2027-03-22",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Holi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "goodfriday-2027",
+   "anim": "goodfriday",
+   "date": "2027-03-26",
+   "scope": "ALL",
+   "names": {
+    "default": "Good Friday"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-apr-2027",
+   "anim": "harvest",
+   "date": "2027-04-14",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Puthandu",
+    "bihu": "Happy Bohag Bihu",
+    "baisakhi": "Happy Baisakhi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "ganesh-2027",
+   "anim": "ganesh",
+   "date": "2027-09-04",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Vinayaka Chathurthi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "dussehra-2027",
+   "anim": "navratri",
+   "date": "2027-10-09",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Navarathiri · Dussehra"
+   },
+   "grace": 0
+  },
+  {
+   "id": "diwali-2027",
+   "anim": "diwali",
+   "date": "2027-10-29",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Diwali"
+   },
+   "grace": 0
+  },
+  {
+   "id": "christmas-2027",
+   "anim": "christmas",
+   "date": "2027-12-25",
+   "scope": "ALL",
+   "names": {
+    "default": "Merry Christmas"
+   },
+   "grace": 0
+  },
+  {
+   "id": "newyear-2028",
+   "anim": "newyear",
+   "date": "2028-01-01",
+   "scope": "ALL",
+   "names": {
+    "default": "Happy New Year"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-jan-2028",
+   "anim": "harvest",
+   "date": "2028-01-15",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Pongal",
+    "sankranti": "Happy Sankranti",
+    "bihu": "Happy Magh Bihu"
+   },
+   "grace": 0
+  },
+  {
+   "id": "eid-2028",
+   "anim": "eid",
+   "date": "2028-02-27",
+   "scope": "ALL",
+   "names": {
+    "default": "Eid Mubarak"
+   },
+   "grace": 1
+  },
+  {
+   "id": "holi-2028",
+   "anim": "holi",
+   "date": "2028-03-11",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Holi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-apr-2028",
+   "anim": "harvest",
+   "date": "2028-04-13",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Puthandu",
+    "bihu": "Happy Bohag Bihu",
+    "baisakhi": "Happy Baisakhi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "goodfriday-2028",
+   "anim": "goodfriday",
+   "date": "2028-04-14",
+   "scope": "ALL",
+   "names": {
+    "default": "Good Friday"
+   },
+   "grace": 0
+  },
+  {
+   "id": "ganesh-2028",
+   "anim": "ganesh",
+   "date": "2028-08-23",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Vinayaka Chathurthi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "dussehra-2028",
+   "anim": "navratri",
+   "date": "2028-09-27",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Navarathiri · Dussehra"
+   },
+   "grace": 0
+  },
+  {
+   "id": "diwali-2028",
+   "anim": "diwali",
+   "date": "2028-10-17",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Diwali"
+   },
+   "grace": 0
+  },
+  {
+   "id": "christmas-2028",
+   "anim": "christmas",
+   "date": "2028-12-25",
+   "scope": "ALL",
+   "names": {
+    "default": "Merry Christmas"
+   },
+   "grace": 0
+  },
+  {
+   "id": "newyear-2029",
+   "anim": "newyear",
+   "date": "2029-01-01",
+   "scope": "ALL",
+   "names": {
+    "default": "Happy New Year"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-jan-2029",
+   "anim": "harvest",
+   "date": "2029-01-14",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Pongal",
+    "sankranti": "Happy Sankranti",
+    "bihu": "Happy Magh Bihu"
+   },
+   "grace": 0
+  },
+  {
+   "id": "eid-2029",
+   "anim": "eid",
+   "date": "2029-02-15",
+   "scope": "ALL",
+   "names": {
+    "default": "Eid Mubarak"
+   },
+   "grace": 1
+  },
+  {
+   "id": "holi-2029",
+   "anim": "holi",
+   "date": "2029-03-01",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Holi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "goodfriday-2029",
+   "anim": "goodfriday",
+   "date": "2029-03-30",
+   "scope": "ALL",
+   "names": {
+    "default": "Good Friday"
+   },
+   "grace": 0
+  },
+  {
+   "id": "harvest-apr-2029",
+   "anim": "harvest",
+   "date": "2029-04-14",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Harvest Festival",
+    "pongal": "Happy Puthandu",
+    "bihu": "Happy Bohag Bihu",
+    "baisakhi": "Happy Baisakhi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "ganesh-2029",
+   "anim": "ganesh",
+   "date": "2029-09-11",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Vinayaka Chathurthi"
+   },
+   "grace": 0
+  },
+  {
+   "id": "dussehra-2029",
+   "anim": "navratri",
+   "date": "2029-10-16",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Navarathiri · Dussehra"
+   },
+   "grace": 0
+  },
+  {
+   "id": "diwali-2029",
+   "anim": "diwali",
+   "date": "2029-11-05",
+   "scope": "IN",
+   "names": {
+    "default": "Happy Diwali"
+   },
+   "grace": 0
+  },
+  {
+   "id": "christmas-2029",
+   "anim": "christmas",
+   "date": "2029-12-25",
+   "scope": "ALL",
+   "names": {
+    "default": "Merry Christmas"
+   },
+   "grace": 0
+  }
+ ]
+}
